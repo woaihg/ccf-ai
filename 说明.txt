@@ -1,0 +1,5 @@
+wh代码（环境：python3.5+keras）：
+1、cnn_money.py预测罚金，结果文件data/money-12-2.csv(已含有)
+2、lawmodel.py用cnn生成法律特征，结果目录feature/(太大，未放入生成文件，可跑代码生成)
+3、labelchain根据featrue生成对应法律的预测结果，结果目录re/(已含有)
+4、getre.py生成初版结果result1207_1.csv
